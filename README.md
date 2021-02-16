@@ -1,3 +1,1 @@
 
-
-  ![Serhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=serhat-alkin&show_icons=true&theme=dracula)
