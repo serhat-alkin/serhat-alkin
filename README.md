@@ -1,8 +1,4 @@
 
-<p>
-  <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
-</p>
-
 ### Connect with me :smiley:
 
 <a href="https://www.linkedin.com/in/serhatalkin/">
