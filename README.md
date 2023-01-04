@@ -1,18 +1,6 @@
 
 <p>
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
-  <br><br> -->
-  <samp>
-    Hello, I'm Serhat. I have production-level experience with the following;
-      - Highly scalable, distributed systems.
-      - Remote, distributed teams and async work culture.
-      - Various AWS services (EC2, ECS, S3, EBS, SQS, RDS, DynamoDB).
-      - Various programming tools and languages (Java, Node.js, PHP, Groovy).
-      - SQL and NoSQL databases.
-      - CI/CD, containerization tools (Jenkins, Docker, GIT).
-      - Salesforce.com CRM.
-      - Microservices and business flow orchestration (Camunda).
-  </samp>
 </p>
 
 ### Connect with me :smiley:
